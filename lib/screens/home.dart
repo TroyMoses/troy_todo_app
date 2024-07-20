@@ -39,7 +39,7 @@ class _HomeState extends State<Home> {
                     Container(
                       margin: const EdgeInsets.only(top: 50, bottom: 20),
                       child: const Text(
-                        'All ToDos',
+                        'TroyLegacy Tasks',
                         style: TextStyle(
                             fontSize: 30, fontWeight: FontWeight.w500),
                       ),
